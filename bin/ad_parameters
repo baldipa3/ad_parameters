@@ -1,0 +1,7 @@
+#!/usr/bin/env ruby
+require './lib/ad_parameters'
+
+ad_parameters = AdParameters.new ARGV.first
+
+ad_parameters.print_protobuf
+

@@ -1,4 +1,0 @@
-#!/usr/bin/env ruby
-require './lib/project'
-
-# Project.new ARGV.first
